@@ -60,9 +60,9 @@ A personalized language-learning platform that adapts conversations based on wha
 
 ## 📊 GitHub Stats
 
-![Naivy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naivydominguez&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=naivydominguez)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naivydominguezE&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naivydominguez&layout=compact&theme=tokyonight)
 
 ---
 
