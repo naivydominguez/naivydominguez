@@ -1,4 +1,4 @@
-# Hi, I'm Naivy Dominguez 👋
+# Hi, I'm Naivy Dominguez ⋆˚࿔
 
 Computer Science student at the **University of Illinois Urbana-Champaign** with interests in **Software Engineering, Machine Learning, and Robotics**.
 
