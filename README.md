@@ -77,5 +77,5 @@ I'm excited to continue building projects, collaborating with others, and applyi
 
 ## Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your_email@email.com
+- 💼 LinkedIn: https://linkedin.com/in/naivydominguez
+- 📧 Email: naivydominguez05@gmail.com
